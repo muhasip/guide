@@ -9,6 +9,7 @@
 
 ## Ön Muhasebe <a href="#on-muhasebe" id="on-muhasebe"></a>
 
+* [Güncel Durum](on-muhasebe/guencel-durum.md)
 * [Cariler](on-muhasebe/cariler/README.md)
   * [Müşteri ve Tedarikçilerinizi Muhasip’e Kaydetmek](on-muhasebe/cariler/muesteri-ve-tedarikcilerinizi-muhasipe-kaydetmek/README.md)
     * [Carileri Manuel Olarak Muhasip'e Kaydetmek](on-muhasebe/cariler/muesteri-ve-tedarikcilerinizi-muhasipe-kaydetmek/carileri-manuel-olarak-muhasipe-kaydetmek.md)
